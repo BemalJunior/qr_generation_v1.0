@@ -101,3 +101,9 @@ body {
   }
   
 }
+
+@media (max-width: 400px) {
+  .container {
+    width: 290px;
+  }
+}
